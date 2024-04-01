@@ -1,0 +1,1524 @@
+[
+    {
+        "nama_dapil": "ACEH I",
+        "kode_dapil": "1101",
+        "propinsi": "ACEH",
+        "kode_propinsi": "11",
+        "kursi": 7,
+        "area_kota": [
+            "Aceh Selatan",
+            "Aceh Tenggara",
+            "Aceh Barat",
+            "Aceh Besar",
+            "Pidie",
+            "Simeulue",
+            "Aceh Singkil",
+            "Aceh Barat Daya",
+            "Gayo Lues",
+            "Aceh Jaya",
+            "Nagan Raya",
+            "Pidie Jaya",
+            "Kota Banda Aceh",
+            "Kota Sabang",
+            "Kota Subulussalam"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 5001
+    },
+    {
+        "nama_dapil": "ACEH II",
+        "kode_dapil": "1102",
+        "propinsi": "ACEH",
+        "kode_propinsi": "11",
+        "kursi": 6,
+        "area_kota": [
+            "Aceh Timur",
+            "Aceh Tengah",
+            "Aceh Utara",
+            "Bireuen",
+            "Aceh Tamiang",
+            "Bener Meriah",
+            "Kota Lhokseumawe",
+            "Kota Langsa"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 5108
+    },
+    {
+        "nama_dapil": "SUMATERA UTARA I",
+        "kode_dapil": "1201",
+        "propinsi": "SUMATERA UTARA",
+        "kode_propinsi": "12",
+        "kursi": 10,
+        "area_kota": [
+            "Deli Serdang",
+            "Serdang Bedagai",
+            "Kota Medan",
+            "Kota Tebing Tinggi"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7629
+    },
+    {
+        "nama_dapil": "SUMATERA UTARA II",
+        "kode_dapil": "1202",
+        "propinsi": "SUMATERA UTARA",
+        "kode_propinsi": "12",
+        "kursi": 10,
+        "area_kota": [
+            "Tapanuli Tengah",
+            "Tapanuli Utara",
+            "Tapanuli Selatan",
+            "Nias",
+            "Labuhanbatu",
+            "Toba",
+            "Mandailing Natal",
+            "Nias Selatan",
+            "Humbang Hasundutan",
+            "Samosir",
+            "Padang Lawas Utara",
+            "Padang Lawas",
+            "Labuhanbatu Selatan",
+            "Labuhanbatu Utara",
+            "Nias Utara",
+            "Nias Barat",
+            "Kota Sibolga",
+            "Kota Padang Sidempuan",
+            "Kota Gunungsitoli"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7630
+    },
+    {
+        "nama_dapil": "SUMATERA UTARA III",
+        "kode_dapil": "1203",
+        "propinsi": "SUMATERA UTARA",
+        "kode_propinsi": "12",
+        "kursi": 10,
+        "area_kota": [
+            "Langkat",
+            "Karo",
+            "Simalungun",
+            "Asahan",
+            "Dairi",
+            "Pakpak Bharat",
+            "Batu Bara",
+            "Kota Pematangsiantar",
+            "Kota Tanjung Balai",
+            "Kota Binjai"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7631
+    },
+    {
+        "nama_dapil": "SUMATERA BARAT I",
+        "kode_dapil": "1301",
+        "propinsi": "SUMATERA BARAT",
+        "kode_propinsi": "13",
+        "kursi": 8,
+        "area_kota": [
+            "Pesisir Selatan",
+            "Solok",
+            "Sijunjung",
+            "Tanah Datar",
+            "Kepulauan Mentawai",
+            "Dharmasraya",
+            "Solok Selatan",
+            "Kota Padang",
+            "Kota Solok",
+            "Kota Sawahlunto",
+            "Kota Padang Panjang"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7632
+    },
+    {
+        "nama_dapil": "SUMATERA BARAT II",
+        "kode_dapil": "1302",
+        "propinsi": "SUMATERA BARAT",
+        "kode_propinsi": "13",
+        "kursi": 6,
+        "area_kota": [
+            "Padang Pariaman",
+            "Agam",
+            "Lima Puluh Kota",
+            "Pasaman",
+            "Pasaman Barat",
+            "Kota Bukittinggi",
+            "Kota Payakumbuh",
+            "Kota Pariaman"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7633
+    },
+    {
+        "nama_dapil": "RIAU I",
+        "kode_dapil": "1401",
+        "propinsi": "RIAU",
+        "kode_propinsi": "14",
+        "kursi": 7,
+        "area_kota": [
+            "Bengkalis",
+            "Rokan Hulu",
+            "Rokan Hilir",
+            "Siak",
+            "Kepulauan Meranti",
+            "Kota Pekanbaru",
+            "Kota Dumai"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7634
+    },
+    {
+        "nama_dapil": "RIAU II",
+        "kode_dapil": "1402",
+        "propinsi": "RIAU",
+        "kode_propinsi": "14",
+        "kursi": 6,
+        "area_kota": [
+            "Kampar",
+            "Indragiri Hulu",
+            "Indragiri Hilir",
+            "Pelalawan",
+            "Kuantan Singingi"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7635
+    },
+    {
+        "nama_dapil": "JAMBI",
+        "kode_dapil": "1501",
+        "propinsi": "JAMBI",
+        "kode_propinsi": "15",
+        "kursi": 8,
+        "area_kota": [
+            "Kerinci",
+            "Merangin",
+            "Sarolangun",
+            "Batanghari",
+            "Muaro Jambi",
+            "Tanjung Jabung Barat",
+            "Tanjung Jabung Timur",
+            "Bungo",
+            "Tebo",
+            "Kota Jambi",
+            "Kota Sungai Penuh"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7636
+    },
+    {
+        "nama_dapil": "SUMATERA SELATAN I",
+        "kode_dapil": "1601",
+        "propinsi": "SUMATERA SELATAN",
+        "kode_propinsi": "16",
+        "kursi": 8,
+        "area_kota": [
+            "Musi Rawas",
+            "Musi Banyuasin",
+            "Banyuasin",
+            "Musi Rawas Utara",
+            "Kota Palembang",
+            "Kota Lubuk Linggau"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7637
+    },
+    {
+        "nama_dapil": "SUMATERA SELATAN II",
+        "kode_dapil": "1602",
+        "propinsi": "SUMATERA SELATAN",
+        "kode_propinsi": "16",
+        "kursi": 9,
+        "area_kota": [
+            "Ogan Komering Ulu",
+            "Ogan Komering Ilir",
+            "Muara Enim",
+            "Lahat",
+            "Ogan Komering Ulu Timur",
+            "Ogan Komering Ulu Selatan",
+            "Ogan Ilir",
+            "Empat Lawang",
+            "Penukal Abab Lematang Ilir",
+            "Kota Pagar Alam",
+            "Kota Prabumulih"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7638
+    },
+    {
+        "nama_dapil": "BENGKULU",
+        "kode_dapil": "1701",
+        "propinsi": "BENGKULU",
+        "kode_propinsi": "17",
+        "kursi": 4,
+        "area_kota": [
+            "Bengkulu Selatan",
+            "Rejang Lebong",
+            "Bengkulu Utara",
+            "Kaur",
+            "Seluma",
+            "Muko Muko",
+            "Lebong",
+            "Kepahiang",
+            "Bengkulu Tengah",
+            "Kota Bengkulu"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7639
+    },
+    {
+        "nama_dapil": "LAMPUNG I",
+        "kode_dapil": "1801",
+        "propinsi": "LAMPUNG",
+        "kode_propinsi": "18",
+        "kursi": 10,
+        "area_kota": [
+            "Lampung Selatan",
+            "Lampung Barat",
+            "Tanggamus",
+            "Pesawaran",
+            "Pringsewu",
+            "Pesisir Barat",
+            "Kota Bandar Lampung",
+            "Kota Metro"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7640
+    },
+    {
+        "nama_dapil": "LAMPUNG II",
+        "kode_dapil": "1802",
+        "propinsi": "LAMPUNG",
+        "kode_propinsi": "18",
+        "kursi": 10,
+        "area_kota": [
+            "Lampung Tengah",
+            "Lampung Utara",
+            "Tulang Bawang",
+            "Lampung Timur",
+            "Way Kanan",
+            "Mesuji",
+            "Tulang Bawang Barat"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7641
+    },
+    {
+        "nama_dapil": "KEPULAUAN BANGKA BELITUNG",
+        "kode_dapil": "1901",
+        "propinsi": "KEPULAUAN BANGKA BELITUNG",
+        "kode_propinsi": "19",
+        "kursi": 3,
+        "area_kota": [
+            "Bangka",
+            "Belitung",
+            "Bangka Selatan",
+            "Bangka Tengah",
+            "Bangka Barat",
+            "Belitung Timur",
+            "Kota Pangkal Pinang"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7642
+    },
+    {
+        "nama_dapil": "KEPULAUAN RIAU",
+        "kode_dapil": "2101",
+        "propinsi": "KEPULAUAN RIAU",
+        "kode_propinsi": "21",
+        "kursi": 4,
+        "area_kota": [
+            "Bintan",
+            "Karimun",
+            "Natuna",
+            "Lingga",
+            "Kepulauan Anambas",
+            "Kota Batam",
+            "Kota Tanjung Pinang"
+        ],
+        "wilayah": "Sumatra dan Kep. Riau",
+        "kode_wilayah": "1",
+        "id": 7643
+    },
+    {
+        "nama_dapil": "DKI JAKARTA I",
+        "kode_dapil": "3101",
+        "propinsi": "DKI JAKARTA",
+        "kode_propinsi": "31",
+        "kursi": 6,
+        "area_kota": [
+            "Jakarta Timur"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7644
+    },
+    {
+        "nama_dapil": "DKI JAKARTA II",
+        "kode_dapil": "3102",
+        "propinsi": "DKI JAKARTA",
+        "kode_propinsi": "31",
+        "kursi": 7,
+        "area_kota": [
+            "Jakarta Pusat + Luar Negeri",
+            "Jakarta Selatan"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 5008
+    },
+    {
+        "nama_dapil": "DKI JAKARTA III",
+        "kode_dapil": "3103",
+        "propinsi": "DKI JAKARTA",
+        "kode_propinsi": "31",
+        "kursi": 8,
+        "area_kota": [
+            "Kep. Seribu",
+            "Jakarta Utara",
+            "Jakarta Barat"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7646
+    },
+    {
+        "nama_dapil": "JAWA BARAT I",
+        "kode_dapil": "3201",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 7,
+        "area_kota": [
+            "Kota Bandung",
+            "Kota Cimahi"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7647
+    },
+    {
+        "nama_dapil": "JAWA BARAT II",
+        "kode_dapil": "3202",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 10,
+        "area_kota": [
+            "Bandung",
+            "Bandung Barat"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7648
+    },
+    {
+        "nama_dapil": "JAWA BARAT III",
+        "kode_dapil": "3203",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 9,
+        "area_kota": [
+            "Cianjur",
+            "Kota Bogor"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7649
+    },
+    {
+        "nama_dapil": "JAWA BARAT IV",
+        "kode_dapil": "3204",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 6,
+        "area_kota": [
+            "Sukabumi",
+            "Kota Sukabumi"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7650
+    },
+    {
+        "nama_dapil": "JAWA BARAT V",
+        "kode_dapil": "3205",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 9,
+        "area_kota": [
+            "Bogor"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7651
+    },
+    {
+        "nama_dapil": "JAWA BARAT VI",
+        "kode_dapil": "3206",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 6,
+        "area_kota": [
+            "Kota Bekasi",
+            "Kota Depok"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7652
+    },
+    {
+        "nama_dapil": "JAWA BARAT VII",
+        "kode_dapil": "3207",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 10,
+        "area_kota": [
+            "Purwakarta",
+            "Karawang",
+            "Bekasi"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7653
+    },
+    {
+        "nama_dapil": "JAWA BARAT VIII",
+        "kode_dapil": "3208",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 9,
+        "area_kota": [
+            "Cirebon",
+            "Indramayu",
+            "Kota Cirebon"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7654
+    },
+    {
+        "nama_dapil": "JAWA BARAT IX",
+        "kode_dapil": "3209",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 8,
+        "area_kota": [
+            "Majalengka",
+            "Sumedang",
+            "Subang"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7709
+    },
+    {
+        "nama_dapil": "JAWA BARAT X",
+        "kode_dapil": "3210",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 7,
+        "area_kota": [
+            "Ciamis",
+            "Kuningan",
+            "Pangandaran",
+            "Kota Banjar"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7655
+    },
+    {
+        "nama_dapil": "JAWA BARAT XI",
+        "kode_dapil": "3211",
+        "propinsi": "JAWA BARAT",
+        "kode_propinsi": "32",
+        "kursi": 10,
+        "area_kota": [
+            "Garut",
+            "Tasikmalaya",
+            "Kota Tasikmalaya"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7656
+    },
+    {
+        "nama_dapil": "JAWA TENGAH I",
+        "kode_dapil": "3301",
+        "propinsi": "JAWA TENGAH",
+        "kode_propinsi": "33",
+        "kursi": 8,
+        "area_kota": [
+            "Semarang",
+            "Kendal",
+            "Kota Salatiga",
+            "Kota Semarang"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7657
+    },
+    {
+        "nama_dapil": "JAWA TENGAH II",
+        "kode_dapil": "3302",
+        "propinsi": "JAWA TENGAH",
+        "kode_propinsi": "33",
+        "kursi": 7,
+        "area_kota": [
+            "Kudus",
+            "Jepara",
+            "Demak"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7658
+    },
+    {
+        "nama_dapil": "JAWA TENGAH III",
+        "kode_dapil": "3303",
+        "propinsi": "JAWA TENGAH",
+        "kode_propinsi": "33",
+        "kursi": 9,
+        "area_kota": [
+            "Grobogan",
+            "Blora",
+            "Rembang",
+            "Pati"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7659
+    },
+    {
+        "nama_dapil": "JAWA TENGAH IV",
+        "kode_dapil": "3304",
+        "propinsi": "JAWA TENGAH",
+        "kode_propinsi": "33",
+        "kursi": 7,
+        "area_kota": [
+            "Wonogiri",
+            "Karanganyar",
+            "Sragen"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7660
+    },
+    {
+        "nama_dapil": "JAWA TENGAH V",
+        "kode_dapil": "3305",
+        "propinsi": "JAWA TENGAH",
+        "kode_propinsi": "33",
+        "kursi": 8,
+        "area_kota": [
+            "Boyolali",
+            "Klaten",
+            "Sukoharjo",
+            "Kota Surakarta"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7661
+    },
+    {
+        "nama_dapil": "JAWA TENGAH VI",
+        "kode_dapil": "3306",
+        "propinsi": "JAWA TENGAH",
+        "kode_propinsi": "33",
+        "kursi": 8,
+        "area_kota": [
+            "Purworejo",
+            "Wonosobo",
+            "Magelang",
+            "Temanggung",
+            "Kota Magelang"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7662
+    },
+    {
+        "nama_dapil": "JAWA TENGAH VII",
+        "kode_dapil": "3307",
+        "propinsi": "JAWA TENGAH",
+        "kode_propinsi": "33",
+        "kursi": 7,
+        "area_kota": [
+            "Purbalingga",
+            "Banjarnegara",
+            "Kebumen"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7663
+    },
+    {
+        "nama_dapil": "JAWA TENGAH VIII",
+        "kode_dapil": "3308",
+        "propinsi": "JAWA TENGAH",
+        "kode_propinsi": "33",
+        "kursi": 8,
+        "area_kota": [
+            "Cilacap",
+            "Banyumas"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7664
+    },
+    {
+        "nama_dapil": "JAWA TENGAH IX",
+        "kode_dapil": "3309",
+        "propinsi": "JAWA TENGAH",
+        "kode_propinsi": "33",
+        "kursi": 8,
+        "area_kota": [
+            "Tegal",
+            "Brebes",
+            "Kota Tegal"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7665
+    },
+    {
+        "nama_dapil": "JAWA TENGAH X",
+        "kode_dapil": "3310",
+        "propinsi": "JAWA TENGAH",
+        "kode_propinsi": "33",
+        "kursi": 7,
+        "area_kota": [
+            "Batang",
+            "Pekalongan",
+            "Pemalang",
+            "Kota Pekalongan"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7666
+    },
+    {
+        "nama_dapil": "DAERAH ISTIMEWA YOGYAKARTA",
+        "kode_dapil": "3401",
+        "propinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+        "kode_propinsi": "34",
+        "kursi": 8,
+        "area_kota": [
+            "Kulon Progo",
+            "Bantul",
+            "Gunungkidul",
+            "Sleman",
+            "Kota Yogyakarta"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7667
+    },
+    {
+        "nama_dapil": "JAWA TIMUR I",
+        "kode_dapil": "3501",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 10,
+        "area_kota": [
+            "Sidoarjo",
+            "Kota Surabaya"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7668
+    },
+    {
+        "nama_dapil": "JAWA TIMUR II",
+        "kode_dapil": "3502",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 7,
+        "area_kota": [
+            "Probolinggo",
+            "Pasuruan",
+            "Kota Probolinggo",
+            "Kota Pasuruan"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7669
+    },
+    {
+        "nama_dapil": "JAWA TIMUR III",
+        "kode_dapil": "3503",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 7,
+        "area_kota": [
+            "Banyuwangi",
+            "Bondowoso",
+            "Situbondo"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7670
+    },
+    {
+        "nama_dapil": "JAWA TIMUR IV",
+        "kode_dapil": "3504",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 8,
+        "area_kota": [
+            "Lumajang",
+            "Jember"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7671
+    },
+    {
+        "nama_dapil": "JAWA TIMUR V",
+        "kode_dapil": "3505",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 8,
+        "area_kota": [
+            "Malang",
+            "Kota Malang",
+            "Kota Batu"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7672
+    },
+    {
+        "nama_dapil": "JAWA TIMUR VI",
+        "kode_dapil": "3506",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 9,
+        "area_kota": [
+            "Tulungagung",
+            "Blitar",
+            "Kediri",
+            "Kota Kediri",
+            "Kota Blitar"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7673
+    },
+    {
+        "nama_dapil": "JAWA TIMUR VII",
+        "kode_dapil": "3507",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 8,
+        "area_kota": [
+            "Pacitan",
+            "Ponorogo",
+            "Trenggalek",
+            "Magetan",
+            "Ngawi"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7674
+    },
+    {
+        "nama_dapil": "JAWA TIMUR VIII",
+        "kode_dapil": "3508",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 10,
+        "area_kota": [
+            "Mojokerto",
+            "Jombang",
+            "Nganjuk",
+            "Madiun",
+            "Kota Mojokerto",
+            "Kota Madiun"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7675
+    },
+    {
+        "nama_dapil": "JAWA TIMUR IX",
+        "kode_dapil": "3509",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 6,
+        "area_kota": [
+            "Bojonegoro",
+            "Tuban"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7676
+    },
+    {
+        "nama_dapil": "JAWA TIMUR X",
+        "kode_dapil": "3510",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 6,
+        "area_kota": [
+            "Lamongan",
+            "Gresik"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7677
+    },
+    {
+        "nama_dapil": "JAWA TIMUR XI",
+        "kode_dapil": "3511",
+        "propinsi": "JAWA TIMUR",
+        "kode_propinsi": "35",
+        "kursi": 8,
+        "area_kota": [
+            "Bangkalan",
+            "Sampang",
+            "Pamekasan",
+            "Sumenep"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7678
+    },
+    {
+        "nama_dapil": "BANTEN I",
+        "kode_dapil": "3601",
+        "propinsi": "BANTEN",
+        "kode_propinsi": "36",
+        "kursi": 6,
+        "area_kota": [
+            "Pandeglang",
+            "Lebak"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7679
+    },
+    {
+        "nama_dapil": "BANTEN II",
+        "kode_dapil": "3602",
+        "propinsi": "BANTEN",
+        "kode_propinsi": "36",
+        "kursi": 6,
+        "area_kota": [
+            "Serang",
+            "Kota Cilegon",
+            "Kota Serang"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7680
+    },
+    {
+        "nama_dapil": "BANTEN III",
+        "kode_dapil": "3603",
+        "propinsi": "BANTEN",
+        "kode_propinsi": "36",
+        "kursi": 10,
+        "area_kota": [
+            "Tangerang",
+            "Kota Tangerang",
+            "Kota Tangerang Selatan"
+        ],
+        "wilayah": "Jawa dan Madura",
+        "kode_wilayah": "3",
+        "id": 7681
+    },
+    {
+        "nama_dapil": "BALI",
+        "kode_dapil": "5101",
+        "propinsi": "BALI",
+        "kode_propinsi": "51",
+        "kursi": 9,
+        "area_kota": [
+            "Jembrana",
+            "Tabanan",
+            "Badung",
+            "Gianyar",
+            "Klungkung",
+            "Bangli",
+            "Karangasem",
+            "Buleleng",
+            "Kota Denpasar"
+        ],
+        "wilayah": "Bali dan Nusa Tenggara",
+        "kode_wilayah": "5",
+        "id": 5012
+    },
+    {
+        "nama_dapil": "NUSA TENGGARA BARAT I",
+        "kode_dapil": "5201",
+        "propinsi": "NUSA TENGGARA BARAT",
+        "kode_propinsi": "52",
+        "kursi": 3,
+        "area_kota": [
+            "Sumbawa",
+            "Dompu",
+            "Bima",
+            "Sumbawa Barat",
+            "Kota Bima"
+        ],
+        "wilayah": "Bali dan Nusa Tenggara",
+        "kode_wilayah": "5",
+        "id": 7682
+    },
+    {
+        "nama_dapil": "NUSA TENGGARA BARAT II",
+        "kode_dapil": "5202",
+        "propinsi": "NUSA TENGGARA BARAT",
+        "kode_propinsi": "52",
+        "kursi": 8,
+        "area_kota": [
+            "Lombok Barat",
+            "Lombok Tengah",
+            "Lombok Timur",
+            "Lombok Utara",
+            "Kota Mataram"
+        ],
+        "wilayah": "Bali dan Nusa Tenggara",
+        "kode_wilayah": "5",
+        "id": 7683
+    },
+    {
+        "nama_dapil": "NUSA TENGGARA TIMUR I",
+        "kode_dapil": "5301",
+        "propinsi": "NUSA TENGGARA TIMUR",
+        "kode_propinsi": "53",
+        "kursi": 6,
+        "area_kota": [
+            "Alor",
+            "Flores Timur",
+            "Sikka",
+            "Ende",
+            "Ngada",
+            "Manggarai",
+            "Lembata",
+            "Manggarai Barat",
+            "Nagekeo",
+            "Manggarai Timur"
+        ],
+        "wilayah": "Bali dan Nusa Tenggara",
+        "kode_wilayah": "5",
+        "id": 7684
+    },
+    {
+        "nama_dapil": "NUSA TENGGARA TIMUR II",
+        "kode_dapil": "5302",
+        "propinsi": "NUSA TENGGARA TIMUR",
+        "kode_propinsi": "53",
+        "kursi": 7,
+        "area_kota": [
+            "Kupang",
+            "Timor Tengah Selatan",
+            "Timor Tengah Utara",
+            "Belu",
+            "Sumba Timur",
+            "Sumba Barat",
+            "Rote Ndao",
+            "Sumba Tengah",
+            "Sumba Barat Daya",
+            "Sabu Raijua",
+            "Malaka",
+            "Kota Kupang"
+        ],
+        "wilayah": "Bali dan Nusa Tenggara",
+        "kode_wilayah": "5",
+        "id": 7685
+    },
+    {
+        "nama_dapil": "KALIMANTAN BARAT I",
+        "kode_dapil": "6101",
+        "propinsi": "KALIMANTAN BARAT",
+        "kode_propinsi": "61",
+        "kursi": 8,
+        "area_kota": [
+            "Sambas",
+            "Mempawah",
+            "Ketapang",
+            "Bengkayang",
+            "Landak",
+            "Kayong Utara",
+            "Kubu Raya",
+            "Kota Pontianak",
+            "Kota Singkawang"
+        ],
+        "wilayah": "Kalimantan",
+        "kode_wilayah": "6",
+        "id": 7686
+    },
+    {
+        "nama_dapil": "KALIMANTAN BARAT II",
+        "kode_dapil": "6102",
+        "propinsi": "KALIMANTAN BARAT",
+        "kode_propinsi": "61",
+        "kursi": 4,
+        "area_kota": [
+            "Sanggau",
+            "Sintang",
+            "Kapuas Hulu",
+            "Sekadau",
+            "Melawi"
+        ],
+        "wilayah": "Kalimantan",
+        "kode_wilayah": "6",
+        "id": 7687
+    },
+    {
+        "nama_dapil": "KALIMANTAN TENGAH",
+        "kode_dapil": "6201",
+        "propinsi": "KALIMANTAN TENGAH",
+        "kode_propinsi": "62",
+        "kursi": 6,
+        "area_kota": [
+            "Kotawaringin Barat",
+            "Kotawaringin Timur",
+            "Kapuas",
+            "Barito Selatan",
+            "Barito Utara",
+            "Katingan",
+            "Seruyan",
+            "Sukamara",
+            "Lamandau",
+            "Gunung Mas",
+            "Pulang Pisau",
+            "Murung Raya",
+            "Barito Timur",
+            "Kota Palangkaraya"
+        ],
+        "wilayah": "Kalimantan",
+        "kode_wilayah": "6",
+        "id": 7688
+    },
+    {
+        "nama_dapil": "KALIMANTAN SELATAN I",
+        "kode_dapil": "6301",
+        "propinsi": "KALIMANTAN SELATAN",
+        "kode_propinsi": "63",
+        "kursi": 6,
+        "area_kota": [
+            "Banjar",
+            "Barito Kuala",
+            "Tapin",
+            "Hulu Sungai Selatan",
+            "Hulu Sungai Tengah",
+            "Hulu Sungai Utara",
+            "Tabalong",
+            "Balangan"
+        ],
+        "wilayah": "Kalimantan",
+        "kode_wilayah": "6",
+        "id": 7689
+    },
+    {
+        "nama_dapil": "KALIMANTAN SELATAN II",
+        "kode_dapil": "6302",
+        "propinsi": "KALIMANTAN SELATAN",
+        "kode_propinsi": "63",
+        "kursi": 5,
+        "area_kota": [
+            "Tanah Laut",
+            "Kotabaru",
+            "Tanah Bumbu",
+            "Kota Banjarmasin",
+            "Kota Banjarbaru"
+        ],
+        "wilayah": "Kalimantan",
+        "kode_wilayah": "6",
+        "id": 7690
+    },
+    {
+        "nama_dapil": "KALIMANTAN TIMUR",
+        "kode_dapil": "6401",
+        "propinsi": "KALIMANTAN TIMUR",
+        "kode_propinsi": "64",
+        "kursi": 8,
+        "area_kota": [
+            "Paser",
+            "Kutai Kartanegara",
+            "Berau",
+            "Kutai Barat",
+            "Kutai Timur",
+            "Penajam Paser Utara",
+            "Mahakam Ulu",
+            "Kota Balikpapan",
+            "Kota Samarinda",
+            "Kota Bontang"
+        ],
+        "wilayah": "Kalimantan",
+        "kode_wilayah": "6",
+        "id": 7691
+    },
+    {
+        "nama_dapil": "KALIMANTAN UTARA",
+        "kode_dapil": "6501",
+        "propinsi": "KALIMANTAN UTARA",
+        "kode_propinsi": "65",
+        "kursi": 3,
+        "area_kota": [
+            "Bulungan",
+            "Malinau",
+            "Nunukan",
+            "Tana Tidung",
+            "Kota Tarakan"
+        ],
+        "wilayah": "Kalimantan",
+        "kode_wilayah": "6",
+        "id": 7692
+    },
+    {
+        "nama_dapil": "SULAWESI UTARA",
+        "kode_dapil": "7101",
+        "propinsi": "SULAWESI UTARA",
+        "kode_propinsi": "71",
+        "kursi": 6,
+        "area_kota": [
+            "Bolaang Mongondow",
+            "Minahasa",
+            "Kepulauan Sangihe",
+            "Kepulauan Talaud",
+            "Minahasa Selatan",
+            "Minahasa Utara",
+            "Minahasa Tenggara",
+            "Bolaang Mongondow Utara",
+            "Kep. Siau Tagulandang Biaro",
+            "Bolaang Mongondow Timur",
+            "Bolaang Mongondow Selatan",
+            "Kota Manado",
+            "Kota Bitung",
+            "Kota Tomohon",
+            "Kota Kotamobagu"
+        ],
+        "wilayah": "Sulawesi",
+        "kode_wilayah": "7",
+        "id": 7693
+    },
+    {
+        "nama_dapil": "SULAWESI TENGAH",
+        "kode_dapil": "7201",
+        "propinsi": "SULAWESI TENGAH",
+        "kode_propinsi": "72",
+        "kursi": 7,
+        "area_kota": [
+            "Banggai",
+            "Poso",
+            "Donggala",
+            "Toli Toli",
+            "Buol",
+            "Morowali",
+            "Banggai Kepulauan",
+            "Parigi Moutong",
+            "Tojo Una Una",
+            "Sigi",
+            "Banggai Laut",
+            "Morowali Utara",
+            "Kota Palu"
+        ],
+        "wilayah": "Sulawesi",
+        "kode_wilayah": "7",
+        "id": 7694
+    },
+    {
+        "nama_dapil": "SULAWESI SELATAN I",
+        "kode_dapil": "7301",
+        "propinsi": "SULAWESI SELATAN",
+        "kode_propinsi": "73",
+        "kursi": 8,
+        "area_kota": [
+            "Kepulauan Selayar",
+            "Bantaeng",
+            "Jeneponto",
+            "Takalar",
+            "Gowa",
+            "Kota Makassar"
+        ],
+        "wilayah": "Sulawesi",
+        "kode_wilayah": "7",
+        "id": 7695
+    },
+    {
+        "nama_dapil": "SULAWESI SELATAN II",
+        "kode_dapil": "7302",
+        "propinsi": "SULAWESI SELATAN",
+        "kode_propinsi": "73",
+        "kursi": 9,
+        "area_kota": [
+            "Bulukumba",
+            "Sinjai",
+            "Bone",
+            "Maros",
+            "Pangkajene Kepulauan",
+            "Barru",
+            "Soppeng",
+            "Wajo",
+            "Kota Pare Pare"
+        ],
+        "wilayah": "Sulawesi",
+        "kode_wilayah": "7",
+        "id": 7696
+    },
+    {
+        "nama_dapil": "SULAWESI SELATAN III",
+        "kode_dapil": "7303",
+        "propinsi": "SULAWESI SELATAN",
+        "kode_propinsi": "73",
+        "kursi": 7,
+        "area_kota": [
+            "Sidenreng Rappang",
+            "Pinrang",
+            "Enrekang",
+            "Luwu",
+            "Tana Toraja",
+            "Luwu Utara",
+            "Luwu Timur",
+            "Toraja Utara",
+            "Kota Palopo"
+        ],
+        "wilayah": "Sulawesi",
+        "kode_wilayah": "7",
+        "id": 7697
+    },
+    {
+        "nama_dapil": "SULAWESI TENGGARA",
+        "kode_dapil": "7401",
+        "propinsi": "SULAWESI TENGGARA",
+        "kode_propinsi": "74",
+        "kursi": 6,
+        "area_kota": [
+            "Kolaka",
+            "Konawe",
+            "Muna",
+            "Buton",
+            "Konawe Selatan",
+            "Bombana",
+            "Wakatobi",
+            "Kolaka Utara",
+            "Konawe Utara",
+            "Buton Utara",
+            "Kolaka Timur",
+            "Konawe Kepulauan",
+            "Muna Barat",
+            "Buton Tengah",
+            "Buton Selatan",
+            "Kota Kendari",
+            "Kota Bau Bau"
+        ],
+        "wilayah": "Sulawesi",
+        "kode_wilayah": "7",
+        "id": 7698
+    },
+    {
+        "nama_dapil": "GORONTALO",
+        "kode_dapil": "7501",
+        "propinsi": "GORONTALO",
+        "kode_propinsi": "75",
+        "kursi": 3,
+        "area_kota": [
+            "Gorontalo",
+            "Boalemo",
+            "Bone Bolango",
+            "Pohuwato",
+            "Gorontalo Utara",
+            "Kota Gorontalo"
+        ],
+        "wilayah": "Sulawesi",
+        "kode_wilayah": "7",
+        "id": 7699
+    },
+    {
+        "nama_dapil": "SULAWESI BARAT",
+        "kode_dapil": "7601",
+        "propinsi": "SULAWESI BARAT",
+        "kode_propinsi": "76",
+        "kursi": 4,
+        "area_kota": [
+            "Pasangkayu",
+            "Mamuju",
+            "Mamasa",
+            "Polewali Mandar",
+            "Majene",
+            "Mamuju Tengah"
+        ],
+        "wilayah": "Sulawesi",
+        "kode_wilayah": "7",
+        "id": 7700
+    },
+    {
+        "nama_dapil": "MALUKU",
+        "kode_dapil": "8101",
+        "propinsi": "MALUKU",
+        "kode_propinsi": "81",
+        "kursi": 4,
+        "area_kota": [
+            "Maluku Tengah",
+            "Maluku Tenggara",
+            "Kepulauan Tanimbar",
+            "Buru",
+            "Seram Bagian Timur",
+            "Seram Bagian Barat",
+            "Kepulauan Aru",
+            "Maluku Barat Daya",
+            "Buru Selatan",
+            "Kota Ambon",
+            "Kota Tual"
+        ],
+        "wilayah": "Maluku",
+        "kode_wilayah": "8",
+        "id": 7701
+    },
+    {
+        "nama_dapil": "MALUKU UTARA",
+        "kode_dapil": "8201",
+        "propinsi": "MALUKU UTARA",
+        "kode_propinsi": "82",
+        "kursi": 3,
+        "area_kota": [
+            "Halmahera Barat",
+            "Halmahera Tengah",
+            "Halmahera Utara",
+            "Halmahera Selatan",
+            "Kepulauan Sula",
+            "Halmahera Timur",
+            "Pulau Morotai",
+            "Pulau Taliabu",
+            "Kota Ternate",
+            "Kota Tidore Kepulauan"
+        ],
+        "wilayah": "Maluku",
+        "kode_wilayah": "8",
+        "id": 7702
+    },
+    {
+        "nama_dapil": "PAPUA",
+        "kode_dapil": "9101",
+        "propinsi": "P A P U A",
+        "kode_propinsi": "91",
+        "kursi": 3,
+        "area_kota": [
+            "Jayapura",
+            "Kepulauan Yapen",
+            "Biak Numfor",
+            "Sarmi",
+            "Keerom",
+            "Waropen",
+            "Supiori",
+            "Mamberamo Raya",
+            "Kota Jayapura"
+        ],
+        "wilayah": "Papua",
+        "kode_wilayah": "9",
+        "id": 7703
+    },
+    {
+        "nama_dapil": "PAPUA BARAT",
+        "kode_dapil": "9201",
+        "propinsi": "PAPUA BARAT",
+        "kode_propinsi": "92",
+        "kursi": 3,
+        "area_kota": [
+            "Manokwari",
+            "Fak Fak",
+            "Teluk Bintuni",
+            "Teluk Wondama",
+            "Kaimana",
+            "Manokwari Selatan",
+            "Pegunungan Arfak"
+        ],
+        "wilayah": "Papua",
+        "kode_wilayah": "9",
+        "id": 7704
+    },
+    {
+        "nama_dapil": "PAPUA SELATAN",
+        "kode_dapil": "9301",
+        "propinsi": "PAPUA SELATAN",
+        "kode_propinsi": "93",
+        "kursi": 3,
+        "area_kota": [
+            "Merauke",
+            "Boven Digoel",
+            "Mappi",
+            "Asmat"
+        ],
+        "wilayah": "Papua",
+        "kode_wilayah": "9",
+        "id": 7705
+    },
+    {
+        "nama_dapil": "PAPUA TENGAH",
+        "kode_dapil": "9401",
+        "propinsi": "PAPUA TENGAH",
+        "kode_propinsi": "94",
+        "kursi": 3,
+        "area_kota": [
+            "Nabire",
+            "Puncak Jaya",
+            "Paniai",
+            "Mimika",
+            "Puncak",
+            "Dogiyai",
+            "Intan Jaya",
+            "Deiyai"
+        ],
+        "wilayah": "Papua",
+        "kode_wilayah": "9",
+        "id": 7706
+    },
+    {
+        "nama_dapil": "PAPUA PEGUNUNGAN",
+        "kode_dapil": "9501",
+        "propinsi": "PAPUA PEGUNUNGAN",
+        "kode_propinsi": "95",
+        "kursi": 3,
+        "area_kota": [
+            "Jayawijaya",
+            "Pegunungan Bintang",
+            "Yahukimo",
+            "Tolikara",
+            "Mamberamo Tengah",
+            "Yalimo",
+            "Lanny Jaya",
+            "Nduga"
+        ],
+        "wilayah": "Papua",
+        "kode_wilayah": "9",
+        "id": 7707
+    },
+    {
+        "nama_dapil": "PAPUA BARAT DAYA",
+        "kode_dapil": "9601",
+        "propinsi": "PAPUA BARAT DAYA",
+        "kode_propinsi": "96",
+        "kursi": 3,
+        "area_kota": [
+            "Sorong",
+            "Sorong Selatan",
+            "Raja Ampat",
+            "Tambrauw",
+            "Maybrat",
+            "Kota Sorong"
+        ],
+        "wilayah": "Papua",
+        "kode_wilayah": "9",
+        "id": 7708
+    }
+]

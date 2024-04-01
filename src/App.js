@@ -1,23 +1,21 @@
-import logo from './logo.svg';
+
+//import { useEffect } from 'react';
 import './App.css';
+import './components/ColorToggleButton'
+// import rekap_dpr from "./db/rekap-dpr.json";
+//import dapil_dpr from "./db/dapil-dpr.json";
+import ColorToggleButton from './components/ColorToggleButton';
+import BasicSelect from './components/BasicSelect';
+
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Recapitulation DPR election</h1>
       </header>
+       <ColorToggleButton/>
+       {/* <BasicSelect/> */}
     </div>
   );
 }
