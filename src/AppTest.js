@@ -7,7 +7,7 @@ import './App.css';
 //import './components/BasicDemo';
 //import BasicDemo from './components/BasicDemo';
 import SelectWrapper from './components/SelectWrapper';
-import ButtonWrapper from './components/ButtonWrapper';
+
 
 
 
@@ -16,10 +16,9 @@ function AppTest() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Recapitulation DPR election</h1>
+        <h1> DPR Result</h1>
       </header>
       <SelectWrapper/>
-      {/* <ButtonWrapper/> */}
 
     </div>
   );

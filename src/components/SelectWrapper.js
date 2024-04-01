@@ -18,6 +18,12 @@ export default function SelectWrapper() {
     const Panel = selectedTarget ? <h3>Target : {selectedTarget.nama_dapil} {'  '} [{selectedTarget.kode_dapil}]</h3> :
           <h3>Target : No Selection</h3>;
 
+    // Presentation Component insert here
+    // Dataloader(selectedTarget)
+    // VoteChart(selectedTarget)
+    // Seatchart(selectedTarget)
+    // DetailInfo(selectedTarget)
+
     return (
         <div className="select-wraper">
             {Panel}
@@ -29,19 +35,17 @@ export default function SelectWrapper() {
 };
 
 export function DSelect({value,onChange}){
-   
     const dapil_dpr = dapil_dpr_db.map(value => {return {kode_dapil : value.kode_dapil, nama_dapil : value.nama_dapil}});
     return (
         <Dropdown id="dropdown" value={value} onChange={onChange} options={dapil_dpr}  optionLabel="nama_dapil" 
-                placeholder="Select Dapil" className="w-full md:w-14rem" />
+                placeholder="Pilih Dapil" className="w-full md:w-14rem" />
     )
 };
 
 export  function MultiButton({value,onChange}) {
     const options = ['Nasional', 'Dapil'];
-
     return (
-        <div className="card flex justify-content-center">
+        <div className="card justify-content-center">
             <SelectButton value={value} onChange={onChange} options={options} />
         </div>
     );
